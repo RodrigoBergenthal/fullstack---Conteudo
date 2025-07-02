@@ -19,14 +19,14 @@ Este script foi feito para explorar:
 
 ## 🎮 Funcionalidades
 
-- Exibe mensagens de **boas-vindas** no console e em alertas.
-- Pergunta ao usuário sua **linguagem de programação favorita**.
-- Realiza operações básicas: **soma** e **subtração** com feedback dinâmico.
-- Verifica a **idade do usuário** e identifica se é maior de idade.
-- Identifica se um número é **positivo, negativo ou zero**.
-- Utiliza um **loop while** para imprimir números de 1 a 10.
-- Avalia uma **nota** como "Aprovado" ou "Reprovado".
-- Gera números aleatórios de forma divertida:
+- 1. Exibe mensagens de **boas-vindas** no console e em alertas.
+- 2. Pergunta ao usuário sua **linguagem de programação favorita**.
+- 3. Realiza operações básicas: **soma** e **subtração** com feedback dinâmico.
+- 4. Verifica a **idade do usuário** e identifica se é maior de idade.
+- 5. Identifica se um número é **positivo, negativo ou zero**.
+- 6. Utiliza um **loop while** para imprimir números de 1 a 10.
+- 7. Avalia uma **nota** como "Aprovado" ou "Reprovado".
+- 8. Gera números aleatórios de forma divertida:
   - Qualquer valor decimal
   - Entre 1 e 10
   - Entre 1 e 1000
@@ -57,7 +57,3 @@ Este exercício é ideal para quem está começando a explorar o JavaScript. Cad
 ## ✨ Dica final
 
 Abra o navegador, experimente, mude valores, erre e aprenda. A melhor forma de dominar o código... é brincando com ele!
-
----
-
-Se quiser, posso também escrever o código completo com todos os itens da atividade. Que tal? 😄
