@@ -1,4 +1,4 @@
-# 🌟 NOSSO DISCORD https://discord.gg/bFHVEauSpG
+# 🌟 NOSSO DISCORD somente solicitando 
 # 🌟 Explorando o JavaScript: Meu Primeiro Script Interativo 🌐💻
 
 Seja bem-vindo ao universo mágico da programação com **JavaScript**! Neste projeto, vamos praticar conceitos fundamentais da linguagem enquanto deixamos o console do navegador cheio de vida e interatividade. Prepare-se para digitar, somar, interagir e até gerar números aleatórios!
@@ -54,3 +54,4 @@ Este exercício é ideal para quem está começando a explorar o JavaScript. Cad
 ## ✨ Dica final
 
 Abra o navegador, experimente, mude valores, erre e aprenda. A melhor forma de dominar o código... é brincando com ele!
+
